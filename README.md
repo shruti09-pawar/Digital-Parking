@@ -18,3 +18,12 @@ A complete web-based solution that simplifies parking operations by allowing use
 🗃️ Database Integration – MySQL backend to store vehicle, booking, and payment records.
 
 🔐 Session Management – Secure session handling for access control and data protection.
+
+🖥️ Tech Stack
+
+| Category            | Technologies                                  |
+| ------------------- | --------------------------------------------- |
+| 💻 **Frontend**     | HTML, CSS, Bootstrap                          |
+| 🧠 **Backend**      | PHP                                           |
+| 🗄️ **Database**    | MySQL                                         |
+| 🛠️ **Tools & IDE** | Visual Studio Code, phpMyAdmin, GitHub, XAMPP |
