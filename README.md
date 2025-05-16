@@ -1,5 +1,6 @@
 # Digital-Parking
 🅿️ Digital Parking System
+
 A complete web-based solution that simplifies parking operations by allowing users to book parking slots, register vehicles, and make secure payments. Administrators can manage slot availability, monitor bookings, and oversee payments through a centralized dashboard. The platform enhances urban mobility by promoting organized and efficient parking systems.
 
 🧠 Key Features
